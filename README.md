@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/fernando-gabre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-gabre&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-gabre&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=fernando-gabre&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-gabre&layout=compact&langs_count=16&theme=cobalt"/>
   </div>
 
   ##    
@@ -20,7 +20,6 @@
     <img align="center" alt="fer-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="fer-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-plain.svg">
 </div>
-![Snake animation](https://github.com/fernando-gabre/fernando-gabre/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <a target="_blank" href="mailto:fgbr234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
