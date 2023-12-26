@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando 👋
 
-- 🔭 Hoje trabalhando atualmente com php / cakephp , javascript / jquery
+- 🔭 Trabalhando atualmente com php, javascript
 - 🌱 Estudando react native 
 
 <div>
